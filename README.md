@@ -16,5 +16,5 @@
    
 [hebrew book](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew)  
 
-[how to predict hapinness of ur wife] (https://medium.com/@lorenz.negri/how-to-predict-happiness-of-your-wife-by-implementing-a-single-neuron-network-with-numpy-dd5b2e8e272d)
+[how to predict hapinness of ur wife](https://medium.com/@lorenz.negri/how-to-predict-happiness-of-your-wife-by-implementing-a-single-neuron-network-with-numpy-dd5b2e8e272d)  
 [Iris ml](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
