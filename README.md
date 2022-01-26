@@ -1,4 +1,4 @@
-# theAmazingMl
+# Links for ml learning
 
 ## Links  
 [ מבוא ](https://softwarearchiblog.com/2016/05/machine-learning.html ) 
