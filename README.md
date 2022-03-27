@@ -23,5 +23,5 @@
 [Iris ml](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 [decision tree and gini, entropy, impurity](https://www.youtube.com/watch?v=PHxYNGo8NcI)  
-[gini explained](https://www.youtube.com/watch?v=-W0DnxQK1Eo)
-[vector in python](https://www.youtube.com/watch?v=c8Xb7krH2_w)
+[gini explained](https://www.youtube.com/watch?v=-W0DnxQK1Eo)  
+[vectors in python](https://www.youtube.com/watch?v=c8Xb7krH2_w)  
