@@ -25,3 +25,4 @@
 [decision tree and gini, entropy, impurity](https://www.youtube.com/watch?v=PHxYNGo8NcI)  
 [gini explained](https://www.youtube.com/watch?v=-W0DnxQK1Eo)  
 [vectors in python](https://www.youtube.com/watch?v=c8Xb7krH2_w)  
+[SVM start learing this model !!](https://www.youtube.com/watch?v=efR1C6CvhmE)
