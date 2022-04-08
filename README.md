@@ -26,4 +26,6 @@
 [gini explained](https://www.youtube.com/watch?v=-W0DnxQK1Eo)  
 [vectors in python](https://www.youtube.com/watch?v=c8Xb7krH2_w)  
 [SVM start learing this model !!](https://www.youtube.com/watch?v=efR1C6CvhmE)  
-[svm example](https://towardsdatascience.com/support-vector-machine-python-example-d67d9b63f1c8)
+[svm example](https://towardsdatascience.com/support-vector-machine-python-example-d67d9b63f1c8)  
+[video about iris svc](https://www.youtube.com/watch?v=oD6oNV8qe4E)  
+[now article about above](http://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/)
