@@ -29,4 +29,5 @@
 [svm example](https://towardsdatascience.com/support-vector-machine-python-example-d67d9b63f1c8)  
 [video about iris svc](https://www.youtube.com/watch?v=oD6oNV8qe4E)  
 [now article about above](http://rasbt.github.io/mlxtend/user_guide/plotting/plot_decision_regions/)  
-[MOVING to stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html)
+[MOVING to stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_STUMPY_Basics.html)  
+[Automatically Find Patterns & Anomalies from Time Series or Sequential Data - Sean Law](https://www.youtube.com/watch?v=WvaBPSeA_JA)
